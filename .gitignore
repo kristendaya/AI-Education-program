@@ -1,0 +1,6 @@
+**/.venv
+test.pdf
+**/soo
+**/__pycache__
+**/langchain_wiki*
+**/node_modules
