@@ -50,18 +50,21 @@ uvicorn main:app --host 0.0.0.0 --port 3000 --reload
 <img width="800" alt="image" src="https://github.com/LeeMyungdeok/Natural-Language-Processing-Project/assets/115915362/b21ee2ff-3d60-4b5b-aaa3-9deb467149d0">
 </p>
 
-## 배포
+## 진행상태
 
-예정 입니다.
+백엔드 부분은 다 구현한 상태이고, 프론트엔드 개발중입니다.
 
 ## 팀명: EduGenius
 
 * [팀원](링크) - 이다혜, 차아린, 이명덕
 
 ## 담당 업무
-- 프롬프트 개발
-  - 상세 하게 적어보기 
+- 데이터를 수집
+  해당 플랫폼에 사용할 적합한 데이터를 수집함
+
+- 데이터 전처리 및 임베딩
+  
 
  
-## 진행상태
-* 진행중
+## 배포
+* 2023년 10월 15일 배포예정
